@@ -46,8 +46,8 @@ is stored in [`data/`](data/).
 Open the notebook directly on GitHub to read the results, or run it locally:
 
 ```bash
-git clone https://github.com/EnzoFerroni/ProjetoAplicado1.git
-cd ProjetoAplicado1
+git clone https://github.com/EnzoFerroni/spotify-2024-eda.git
+cd spotify-2024-eda
 pip install pandas matplotlib seaborn jupyter
 jupyter notebook notebooks/
 ```
